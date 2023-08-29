@@ -1,0 +1,12 @@
+body {
+  background-image: url(/public/backgroundImagelol.jpg);
+  backdrop-filter: invert(1);
+  background-position: right;
+  background-attachment: fixed;
+}
+.App {
+  width: 33%;
+  margin: 0 auto;
+  background-color: #f0f8ffde;
+  padding: 2rem;
+}
