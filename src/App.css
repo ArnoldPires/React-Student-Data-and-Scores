@@ -1,6 +1,8 @@
 body {
   background-image: url(/public/backgroundImagelol.jpg);
   backdrop-filter: invert(1);
+  background-position: right;
+  background-attachment: fixed;
 }
 .App {
   width: 33%;
